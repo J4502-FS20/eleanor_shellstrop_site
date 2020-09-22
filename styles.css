@@ -1,8 +1,8 @@
 body {
   background-color: white;
   text-align: center;
-  color: #eeeeee;
-  background: #ffffff;
+  color: #242489;
+  background: #F5EFEF;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -40,7 +40,7 @@ a {
   text-decoration: none;
   text-transform: uppercase;
   font-weight: bold;
-  color: #CFC9C9;
+  color: #1F1F7A;
   font-family: 'Archivo Black', sans-serif;
 }
 
